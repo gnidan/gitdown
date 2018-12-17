@@ -57,6 +57,10 @@ helper.findRoot = (tree, rootId, notFirst) => {
       break;
     } else {
       found = helper.findRoot(tree[index].descendants, rootId, true);
+
+      if (found) {
+        break;
+      }
     }
   }
 
