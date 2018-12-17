@@ -61,7 +61,7 @@
   ],
   "license": "BSD-3-Clause",
   "main": "./dist/index.js",
-  "name": "gitdown",
+  "name": "@gnidan/gitdown",
   "repository": {
     "type": "git",
     "url": "https://github.com/gajus/gitdown"
