@@ -1,6 +1,6 @@
 [![NPM version](http://img.shields.io/npm/v/gitdown.svg?style=flat-square)](https://www.npmjs.org/package/gitdown)
-[![Travis build status](http://img.shields.io/travis/gajus/gitdown/master.svg?style=flat-square)](https://travis-ci.org/gajus/gitdown)
-[![Dependency Status](https://img.shields.io/david/gajus/gitdown.svg?style=flat-square)](https://david-dm.org/gajus/gitdown)
+[![Travis build status](http://img.shields.io/travis/gnidan/gitdown/master.svg?style=flat-square)](https://travis-ci.org/gnidan/gitdown)
+[![Dependency Status](https://img.shields.io/david/gnidan/gitdown.svg?style=flat-square)](https://david-dm.org/gnidan/gitdown)
 
 Gitdown adds [additional functionality](#features) (generating table of contents, including documents, using variables, etc.) to [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
 
@@ -528,8 +528,8 @@ Generates:
 
 ```markdown
 [![NPM version](http://img.shields.io/npm/v/gitdown.svg?style=flat-square)](https://www.npmjs.org/package/gitdown)
-[![Travis build status](http://img.shields.io/travis/gajus/gitdown/master.svg?style=flat-square)](https://travis-ci.org/gajus/gitdown)
-[![Dependency Status](https://img.shields.io/david/gajus/gitdown.svg?style=flat-square)](https://david-dm.org/gajus/gitdown)
+[![Travis build status](http://img.shields.io/travis/gnidan/gitdown/master.svg?style=flat-square)](https://travis-ci.org/gnidan/gitdown)
+[![Dependency Status](https://img.shields.io/david/gnidan/gitdown.svg?style=flat-square)](https://david-dm.org/gnidan/gitdown)
 ```
 
 <a name="features-generate-badges-json-configuration-5"></a>
@@ -563,7 +563,7 @@ Prints a string formatted according to the given [moment format](http://momentjs
 Generates:
 
 ```markdown
-1540308896
+1545088520
 2018
 ```
 
@@ -597,9 +597,9 @@ Generates:
 
 
 ```
-gajus
+gnidan
 gitdown
-https://github.com/gajus/gitdown
+https://github.com/gnidan/gitdown
 master
 ```
 
